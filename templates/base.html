@@ -1,0 +1,12 @@
+<!DOCTYPE html>
+<html lang="en" dir="ltr">
+    {% include "head.html" %}
+    {% include "navbar.html" %}
+    <body>
+        <!-- {% include "navbar.html" %} -->
+        {% block content %}{% endblock content %}
+
+        {% include "footer.html" %}
+        {% include "scripts.html" %}
+    </body>
+</html>
