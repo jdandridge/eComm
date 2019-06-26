@@ -1,3 +1,3 @@
 Build an Ecommerce Wedsite with Django //
-Part 4 -
-Creating an order summary
+Part 5 -
+The checkout process
